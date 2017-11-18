@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "next": "^4.1.4",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
+  },
+  "name": "fcc-grouphack-react-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository":
+    "https://github.com/cauldyclark15/fcc-grouphack-react-nextjs.git",
+  "author": "cauldyclark15 <jcing.jc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  }
+}
